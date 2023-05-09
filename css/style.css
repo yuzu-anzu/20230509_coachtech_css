@@ -1,0 +1,28 @@
+h1 {
+    margin: 20px;
+    font-size: 20px;   
+}
+
+ul {    
+    padding-left: 0;
+    text-align: right;
+    display: flex-end;
+}
+
+li {
+    list-style: none;
+    display: inline;
+}
+
+.main {
+    width: 200px;
+    height: 200px;
+    margin-top: 200px;
+    margin-left: 150px;
+    display: flex;
+}
+
+.main__img {
+    width: 50%;
+    height: 50%;
+}
