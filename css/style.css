@@ -7,15 +7,11 @@ body {
 
 .header__flex {
     display: flex;
-}
-
-.header__flex {
     margin-left: auto;
 }
 
 .header__flex a {
     text-decoration: none;
-    justify-content: flex-end;
 }
 
 h1 {
