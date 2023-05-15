@@ -5,18 +5,21 @@ body {
     overflow: hidden
 }
 
-.header__frex {
+.header__flex {
     display: flex;
-    height: 60px;
-    align-items: center;
 }
 
-.header__frex {
+.header__flex {
     margin-left: auto;
 }
 
-.header__frex a {
+.header__flex a {
     text-decoration: none;
+    justify-content: flex-end;
+}
+
+h1 {
+    font-size: 30px;
 }
 
 .main {
