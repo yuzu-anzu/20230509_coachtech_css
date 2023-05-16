@@ -7,26 +7,29 @@ body {
 
 .header__flex {
     display: flex;
-    margin-left: auto;
+    justify-content: space-between;
 }
 
 .header-nav {
-    text-decoration: none;
+    margin-top: 20px;
 }
 
 .header-nav-list {
     display: flex;
-    justify-content: flex-end;
-    text-decoration: none;
 }
 
 .header-nav-item {
-    display: flex;
-    justify-content: flex-end;
+    margin: 15px;
+}
+
+.header-nav-item-link {
+    text-decoration: none;
 }
 
 h1 {
     font-size: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
 }
 
 .main {
