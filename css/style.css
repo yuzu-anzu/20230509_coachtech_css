@@ -10,8 +10,19 @@ body {
     margin-left: auto;
 }
 
-.header__flex a {
+.header-nav {
     text-decoration: none;
+}
+
+.header-nav-list {
+    display: flex;
+    justify-content: flex-end;
+    text-decoration: none;
+}
+
+.header-nav-item {
+    display: flex;
+    justify-content: flex-end;
 }
 
 h1 {
