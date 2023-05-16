@@ -26,10 +26,12 @@ body {
     text-decoration: none;
 }
 
-h1 {
+.primary {
     font-size: 30px;
+    color: darkblue;
     margin-top: 20px;
     margin-left: 20px;
+    
 }
 
 .main {
